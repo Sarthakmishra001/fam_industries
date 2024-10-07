@@ -20,6 +20,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+  overflow: hidden;
 }
 #main{
   overflow: hidden;
@@ -132,7 +133,7 @@ nav {
 }
 #nav3 button {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   cursor: pointer;
   border: none;
   padding: 15px 20px;
